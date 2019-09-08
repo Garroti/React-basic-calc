@@ -1,2 +1,2 @@
-A basic calculator in react, just to start learning.
+A basic calculator with react, just to start learning.
 Leonardo Leitão's classes.
